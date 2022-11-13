@@ -1,1 +1,1 @@
-# sec-lists
+# List of Security Resources
